@@ -1,0 +1,33 @@
+# Made by nktfh100
+
+# Note: you must add this to your bukkit.yml file:
+# worlds:
+#   KryIslands:
+#     generator: KryIslands
+
+# Admin permission: KryIslands.admin
+# Allows you to edit every island
+# And set the lobby location 
+ 
+prefix: ""
+
+lobby:
+   world: "world"
+   x: 0.0
+   y: 0.0
+   z: 0.0
+   yaw: 0.0
+   pitch: 0.0
+
+# The height at which the islands will generate.
+islandHeight: 70
+
+# The width of the island plot.
+# Can be change mid game but old islands will not get the new width!
+islandWidth: 200
+
+# Reset X chunks every second
+chunkCleanRate: 2
+
+# In seconds
+inviteTimeout: 60

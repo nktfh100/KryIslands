@@ -1,0 +1,41 @@
+# Made by nktfh100
+
+# %prefix% Plugin's prefix
+# /n for new lines
+msgs:
+   reached-border: "&cYou have reached this island's border!"
+   # %value% How many seconds it should take
+   regenerating: "&aRegenerating your island... (should take around %value%s)"
+   regenerate-success: "&aSuccsesfuly regenerated your island!"
+   no-permission: "&cYou don't have permission to do that!"
+   travel: "&aTeleporting you to your island..."
+   # %value% The target island player name
+   travel-other: "&aTeleporting you to %value%'s island"
+   island-doesnt-exsits: "&cThis player doesn't have an island!"
+   island-regenerating: "&cCan't travel to this island right now!"
+   # %value% List of all the members separated by ,
+   members: "&aMembers: %value%"
+   # %value% The target player
+   player-not-online: "&c%value% is not online!"
+   already-invited: "&cYou already invited %value%!"
+   not-invited: "&c%value% did not invite you!"
+   not-member: "&c%value% is not a member of your island!"
+   removed-member: "&aSuccsesfuly removed %value% from your island"
+   # %value% Player invited
+   # %value1% Invite expire time in seconds
+   island-invite-sent: "&a&aSuccsesfuly invited %value%/n&aThis invite will expire in %value1% seconds"
+   # %value% The player that sent the invite
+   # %value1% Invite expire time in seconds
+   island-invite: "&a%value% invited you to join their island!/n&aThis invite will expire in %value1% seconds/n&aTo accept: /ks acceptinvite %value%"
+   # %value% Player invited
+   island-invite-expired-sender: "&aYour invite to %value% has expired."
+   # %value% The player that sent the invite
+   island-invite-expired: "&aIsland invite from %value% has expired."
+   # %value% Player invited
+   island-invite-declined-sender: "&a%value% has declined your invite."
+   # %value% The player that sent the invite
+   island-invite-declined: "&aSuccsesfuly declined %value%'s invite"
+   # %value% Player invited
+   island-invite-accepted-sender: "&a%value% has accepted your invite."
+   # %value% The player that sent the invite
+   island-invite-accepted: "&aSuccsesfuly accepted %value%'s invite"
